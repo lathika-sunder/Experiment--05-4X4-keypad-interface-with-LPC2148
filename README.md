@@ -1,16 +1,18 @@
+Exp: 05
+
+Date: 07.10.2022
+
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
 Name :Kaushika A
-
 Roll no :212221230048
 
-Date of experiment :20/11/22
+# Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
 
- 
-### Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
-
-## Aim: To Interface 4x4 keypad interface  LPC2148 ARM 7 and write a code for displaying the inputs on a 16x2 lcd 
-## Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
+## Aim: 
+To Interface 4x4 keypad interface  LPC2148 ARM 7 and write a code for displaying the inputs on a 16x2 lcd 
+## Components required: 
+Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
@@ -64,7 +66,7 @@ With that current flow a positive voltage of +5V appears at R3 pin. Since all RO
 •	From previous step, we have known the COLUMN number of key pressed and now we know ROW number. With that we can match the key being pressed. We can take the key INPUT provided by this way for 4X4
 •	
 
-Procedure:
+## Procedure:
 For creation of project on    Kiel μ vision 5 Development environment (LPC21 XX/48/38)
 1.	Click on the menu Project — New µVision Project creates a new project. Select an empty folder and enter the project name, for example Project1. It is good practice to use a separate folder for each project.
 2.	Next, the dialog Select Device for Target opens.
@@ -288,7 +290,7 @@ void LCD_init()
 ```
 
 
-## Output screen shots :
+# Output screen shots :
 ## Set up:
 ![bef](https://user-images.githubusercontent.com/94164580/202905001-df4195d5-673e-484d-b07d-91ef24c50092.png)
 ## Output:
