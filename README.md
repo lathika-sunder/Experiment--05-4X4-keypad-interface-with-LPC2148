@@ -4,8 +4,8 @@ Date: 07.10.2022
 
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
-Name :Kaushika A
-Roll no :212221230048
+Name : LATHIKA SUNDER
+Roll no :212221230054
 
 # Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
 
